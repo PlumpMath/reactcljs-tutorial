@@ -1,14 +1,7 @@
 # reactcljs-tutorial
 
-A Clojure library designed to ... well, that part is up to you.
+React.js [Comments box tutorial](http://facebook.github.io/react/docs/tutorial.html) and playground as implemented in ClojureScript.
 
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Ideas
+* play around with Clojure-idiomatic alternatives to JSX
+* use core.async for complex components
